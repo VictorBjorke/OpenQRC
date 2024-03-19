@@ -1,0 +1,21 @@
+# Bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# py2app build artifacts
+build/
+dist/
+*.app
+
+# Egg directories
+.eggs/
+*.egg-info/
+*.egg

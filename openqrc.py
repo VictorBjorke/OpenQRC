@@ -1,14 +1,23 @@
 import json
 import os
+import sys
 
 def clear_screen():
     """Clears the terminal screen."""
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def load_qcodes():
-    """Loads Q-codes from a JSON file."""
+    """Loads Q-codes from a JSON file, adjusted for py2app bundle."""
+    if hasattr(sys, "frozen"):
+        # If the application is frozen (packaged by py2app), use the resource path
+        base_path = os.path.dirname(sys.executable)
+    else:
+        base_path = os.path.dirname(__file__)
+    
+    json_path = os.path.join(base_path, 'qcodes.json')
+    
     try:
-        with open('qcodes.json', 'r') as file:
+        with open(json_path, 'r') as file:
             return json.load(file)
     except Exception as e:
         print("Error loading 'qcodes.json':", e)
