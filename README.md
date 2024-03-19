@@ -10,8 +10,16 @@ OpenQRC is a community-driven project aiming to create a comprehensive, open-sou
 - **Future Development:** Plans include creating an online tool and developing cross-platform software for Windows, macOS, and Linux to enhance accessibility and usability.
 
 ## How to Use
-**work in progress**
-For a complete list of Q-codes, their meanings, uses, and mnemonics, check out our [Q-Codes Reference Guide](Q-CODES.md).
+OpenQRC is currently only available as a python script. To use it, follow these instructions:
+
+1. **Ensure you have python 3 installed:** OpenQRC requires python 3.6 or later. You can check your version by running `python --version` in your terminal.
+2. **Download and install OpenQRC:**
+- Open your terminal
+- Run the following command:
+`curl -o- https://raw.githubusercontent.com/yourusername/yourprojectname/main/install.sh | bash`
+3. **Run OpenQRC:**
+- Go to the OpenQRC directory:`cd ~/OpenQRC`
+- Run OpenQRC: `python3 openqrc.py`
 
 ## Planned Features
 - **Online Tool:** An interactive website for easy searching, learning, and referencing of Q-codes.
