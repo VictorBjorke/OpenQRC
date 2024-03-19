@@ -28,6 +28,11 @@ Q-codes are standardized sets of three-letter codes all of which start with the 
 
 ## Signal Information
 
+### QSB
+- **Meaning**: Is my signal strength varying?
+- **Mnemonic**: "Quickly Sinking Boat"
+- **Use**: Used to inquire about fluctuations in signal strength, indicating that the signal might be fading in and out. This can affect the clarity and quality of the communication. Understanding whether your signal strength is varying is crucial for adjusting your transmission power or antenna positioning to improve communication reliability.
+
 ### QRK
 - **Meaning**: What is the readability of my signals?
 - **Mnemonic**: "Question: Readability Known?"
