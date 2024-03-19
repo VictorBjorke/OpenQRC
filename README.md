@@ -2,7 +2,7 @@
 ![OpenQRC screenshot](images/openqrc_screenshot_01.png)
 
 ## About OpenQRC
-OpenQRC is a community-driven project aiming to create a comprehensive, open-source reference for Q-codes used in amateur (ham) radio communications. Our goal is to provide an easily accessible guide that supports both new and experienced ham radio enthusiasts in their daily communications and learning.
+OpenQRC is a community-driven project aiming to create a comprehensive, open-source reference for Q-codes used in amateur (ham) radio communications. Our goal is to provide an easily accessible guide that supports both new and experienced ham radio enthusiasts in their daily communications and learning. The name means "Open-Source Q-code Radio Communication".
 
 ## Features
 - **Comprehensive Q-Code Listings:** Detailed descriptions, mnemonics, and examples for each Q-code.
