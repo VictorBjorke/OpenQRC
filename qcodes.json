@@ -1,0 +1,13 @@
+[
+    {
+      "code": "QSO",
+      "meaning": "Can you communicate with ...? / Communicating with ...",
+      "keywords": ["communicate", "contact", "conversation"]
+    },
+    {
+      "code": "QRZ",
+      "meaning": "Who is calling me?",
+      "keywords": ["calling", "identity", "inquiry"]
+    }
+  ]
+  
