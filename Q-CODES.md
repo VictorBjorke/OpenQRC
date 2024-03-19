@@ -9,7 +9,7 @@ Q-codes are standardized sets of three-letter codes all of which start with the 
 ### QSO
 - **Meaning**: A conversation with another station.
 - **Mnemonic**: "Quick Speak Opening"
-- **Use**: Initiating or acknowledging a direct communication.
+- **Use**: Initiating or acknowledging a direct communication. 
 
 ### QRZ
 - **Meaning**: Who is calling me?
