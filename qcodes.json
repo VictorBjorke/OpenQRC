@@ -1,13 +1,82 @@
 [
-    {
+  {
       "code": "QSO",
-      "meaning": "Can you communicate with ...? / Communicating with ...",
+      "meaning": "A conversation with another station.",
       "keywords": ["communicate", "contact", "conversation"]
-    },
-    {
+  },
+  {
       "code": "QRZ",
       "meaning": "Who is calling me?",
       "keywords": ["calling", "identity", "inquiry"]
-    }
-  ]
-  
+  },
+  {
+      "code": "QTH",
+      "meaning": "What is your location?",
+      "keywords": ["location", "position", "place"]
+  },
+  {
+      "code": "QSL",
+      "meaning": "Can you acknowledge receipt?",
+      "keywords": ["acknowledge", "receipt", "confirmation"]
+  },
+  {
+      "code": "QRM",
+      "meaning": "I am being interfered with.",
+      "keywords": ["interference", "noise", "disruption"]
+  },
+  {
+      "code": "QRN",
+      "meaning": "I am troubled by static.",
+      "keywords": ["static", "noise", "interference"]
+  },
+  {
+      "code": "QSY",
+      "meaning": "Changing to another frequency.",
+      "keywords": ["change frequency", "move", "switch"]
+  },
+  {
+      "code": "QRP",
+      "meaning": "Shall I decrease power?",
+      "keywords": ["reduce power", "lower power", "decrease"]
+  },
+  {
+      "code": "QRQ",
+      "meaning": "Shall I send faster?",
+      "keywords": ["send faster", "increase speed", "speed up"]
+  },
+  {
+      "code": "QRT",
+      "meaning": "Shall I stop sending?",
+      "keywords": ["stop sending", "cease", "halt"]
+  },
+  {
+      "code": "QRV",
+      "meaning": "Are you ready?",
+      "keywords": ["ready", "prepared", "available"]
+  },
+  {
+      "code": "QRX",
+      "meaning": "When will you call me again?",
+      "keywords": ["call again", "next call", "later"]
+  },
+  {
+      "code": "QRS",
+      "meaning": "Shall I send more slowly?",
+      "keywords": ["send slowly", "reduce speed", "slow down"]
+  },
+  {
+      "code": "QSB",
+      "meaning": "Your signals are fading.",
+      "keywords": ["fading signals", "signal variation", "fluctuating"]
+  },
+  {
+      "code": "QSW",
+      "meaning": "Will you send on this frequency?",
+      "keywords": ["send frequency", "use frequency", "transmit here"]
+  },
+  {
+      "code": "QT",
+      "meaning": "What is the readability of my signals?",
+      "keywords": ["readability", "signal quality", "clarity"]
+  }
+]
