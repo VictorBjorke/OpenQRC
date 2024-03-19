@@ -1,82 +1,74 @@
-[
-  {
-      "code": "QSO",
+{
+  "QSO": {
       "meaning": "A conversation with another station.",
       "keywords": ["communicate", "contact", "conversation"]
   },
-  {
-      "code": "QRZ",
+  "QRZ": {
       "meaning": "Who is calling me?",
       "keywords": ["calling", "identity", "inquiry"]
   },
-  {
-      "code": "QTH",
+  "QTH": {
       "meaning": "What is your location?",
       "keywords": ["location", "position", "place"]
   },
-  {
-      "code": "QSL",
+  "QSL": {
       "meaning": "Can you acknowledge receipt?",
       "keywords": ["acknowledge", "receipt", "confirmation"]
   },
-  {
-      "code": "QRM",
+  "QRM": {
       "meaning": "I am being interfered with.",
       "keywords": ["interference", "noise", "disruption"]
   },
-  {
-      "code": "QRN",
+  "QRN": {
       "meaning": "I am troubled by static.",
       "keywords": ["static", "noise", "interference"]
   },
-  {
-      "code": "QSY",
+  "QSY": {
       "meaning": "Changing to another frequency.",
       "keywords": ["change frequency", "move", "switch"]
   },
-  {
-      "code": "QRP",
-      "meaning": "Shall I decrease power?",
-      "keywords": ["reduce power", "lower power", "decrease"]
+  "QRS": {
+      "meaning": "Shall I send more slowly?",
+      "keywords": ["slow down", "send", "transmission speed"]
   },
-  {
-      "code": "QRQ",
-      "meaning": "Shall I send faster?",
-      "keywords": ["send faster", "increase speed", "speed up"]
+  "QRP": {
+      "meaning": "Shall I decrease transmitter power?",
+      "keywords": ["lower power", "decrease power", "transmitter power"]
   },
-  {
-      "code": "QRT",
+  "QRQ": {
+      "meaning": "Shall I increase transmitter power?",
+      "keywords": ["increase power", "higher power", "transmitter power"]
+  },
+  "QRT": {
       "meaning": "Shall I stop sending?",
-      "keywords": ["stop sending", "cease", "halt"]
+      "keywords": ["stop sending", "cease transmission", "end transmission"]
   },
-  {
-      "code": "QRV",
+  "QRV": {
       "meaning": "Are you ready?",
       "keywords": ["ready", "prepared", "available"]
   },
-  {
-      "code": "QRX",
+  "QRX": {
       "meaning": "When will you call me again?",
-      "keywords": ["call again", "next call", "later"]
+      "keywords": ["call again", "next contact", "when next"]
   },
-  {
-      "code": "QRS",
-      "meaning": "Shall I send more slowly?",
-      "keywords": ["send slowly", "reduce speed", "slow down"]
+  "QSB": {
+      "meaning": "Is my signal fading?",
+      "keywords": ["signal fade", "fading", "signal strength"]
   },
-  {
-      "code": "QSB",
-      "meaning": "Your signals are fading.",
-      "keywords": ["fading signals", "signal variation", "fluctuating"]
+  "QSK": {
+      "meaning": "Can you hear me between your signals (and break in on your transmission)?",
+      "keywords": ["break-in", "interrupt", "hear between signals"]
   },
-  {
-      "code": "QSW",
-      "meaning": "Will you send on this frequency?",
-      "keywords": ["send frequency", "use frequency", "transmit here"]
+  "QRL": {
+      "meaning": "Are you busy?",
+      "keywords": ["busy", "occupied", "available"]
   },
-  {
-      "code": "QT",
-      "meaning": "What is the readability of my signals?",
-      "keywords": ["readability", "signal quality", "clarity"]
+  "QRA": {
+      "meaning": "What is the name of your station?",
+      "keywords": ["station name", "your name", "call sign"]
+  },
+  "QTQ": {
+      "meaning": "Can you communicate via Morse code?",
+      "keywords": ["Morse code", "communicate Morse", "use Morse"]
   }
-]
+}
